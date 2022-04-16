@@ -1,2 +1,2 @@
 # nand-to-nlaw
-I am sure that name stands for itself
+https://www.nand2tetris.org/
